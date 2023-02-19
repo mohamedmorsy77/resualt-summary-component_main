@@ -23,7 +23,6 @@
 body {
     Font-size: 18px;
     font-family: 'Hanken Grotesk', sans-serif;
-    background-color: var(--Pale_blue);
     display: flex;
     justify-content: center;
     align-items: center;
